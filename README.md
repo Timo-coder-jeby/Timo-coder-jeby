@@ -11,7 +11,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=jeby007&color=green)
 [![个人博客](https://img.shields.io/badge/-笔记(blogs)-c14438?style=flat-square&logo=B&logoColor=white)](https://jeby007.github.io/blogs/)
@@ -25,3 +24,4 @@
 <a href="https://github.com/duktig666">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeby007&theme=vue" />
 </a>
+username=Jeby007&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
